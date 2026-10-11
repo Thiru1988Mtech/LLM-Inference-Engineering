@@ -1,0 +1,6 @@
+matplotlib>=3.8
+numpy>=1.26
+regex>=2024.5.15
+transformers>=4.40
+ipykernel>=6.29
+notebook>=7.0
