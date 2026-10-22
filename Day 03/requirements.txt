@@ -1,0 +1,5 @@
+numpy>=1.26
+matplotlib>=3.8
+transformers>=4.40
+ipykernel>=6.29
+notebook>=7.0
